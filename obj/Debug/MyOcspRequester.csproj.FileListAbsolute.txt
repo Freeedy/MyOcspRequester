@@ -1,0 +1,8 @@
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\bin\Debug\MyOcspRequester.dll
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\bin\Debug\MyOcspRequester.pdb
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\obj\Debug\MyOcspRequester.csprojAssemblyReference.cache
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\obj\Debug\MyOcspRequester.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\obj\Debug\MyOcspRequester.csproj.CopyComplete
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\obj\Debug\MyOcspRequester.dll
+D:\Dev\C#\Projects\Cryptography\CryptoSamples\MyOcspRequester\obj\Debug\MyOcspRequester.pdb
